@@ -1,7 +1,7 @@
 const CONFIGDATA = {
-  titleHeader: "ZAMA SHA BAS WARDAAAAAAAAAA",
+  titleHeader: "ZAMA SHA SAMAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
   descriptionHeader:
-    "They say some people worth melting I melt for you WARDA",
+    "They say some people worth melting I melt for you SAMAHA",
   buttonYes: "Yes",
   buttonNo: "No",
   titleModar: "Thank you !!",
