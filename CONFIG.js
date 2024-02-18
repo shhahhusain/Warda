@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "ZAMA SHA SAMAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+  titleHeader: "DUA",
   descriptionHeader:
-    "They say some people worth melting I melt for you SAMAHA",
+    "They say some people worth melting for I melt for you every single time DUAAAAAAAAAAA whenever you talk my heart goes like 📈📈📈📈 i can listen to you forever your voice is lit I wanna talk to you so much ",
   buttonYes: "Yes",
   buttonNo: "No",
-  titleModar: "Thank you !!",
+  titleModar: "DUA A REQUEST",
   descriptionModar:
-    "URO BA HUM DARLA AOGHAGAMA ISTRI BA HUM DARLA KOMA  KOR BA HUM ZA SAFA KOMA ROTAI BA HUM DARTA ACHOMA ROTAI BA HUM DARTA PAKHOMA KHER DE BAS DE PAKHLE CHAL NA RAZE BUT AHA BAM EZDA KAMA KA STA ZRA WE ",
+    "DUA all I desire is to hear your voice endlessly, for it's all I long for. Just your words, flowing like sweet melodies, enchanting my soul with every syllable. I want nothing more than to listen to you, as if every word you speak is a love song meant only for me.",
 };

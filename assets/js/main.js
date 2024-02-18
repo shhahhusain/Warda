@@ -1,9 +1,4 @@
-/**
- * @author Đông Ngô <dongngo.2000@gmail.com>
- * 
- */
 
-// Không được thay đổi ở đây - Not to change
 $(document).ready(function () {
   setTimeout(function () {
     $(".spinner").fadeOut();
