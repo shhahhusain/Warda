@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "DUA",
+  titleHeader: "AQSA",
   descriptionHeader:
-    "I want you to be my full time friend i want to talk to you 24/7....PLEASE BE MY BESTFRIEND SO YOU DONT HAVE TO BE FRIEND WITH ANYONE ONLY ME kisi aor ke sat kuch b bat nahi bas ",
+    "I want to marry you AQSAAAAAAAAAA",
   buttonYes: "Yes",
   buttonNo: "No",
-  titleModar: "DUA A REQUEST",
+  titleModar: "AQSA",
   descriptionModar:
-    "They say some people worth melting for I melt for you every single time DUAAAAAAAAAAA whenever you talk my heart goes like 📈📈📈📈 i can listen to you forever your voice is lit I wanna talk to you so much.PLEASE DONT SAY NOOOOOOOOOOOOOOOOO",
+    "They say some people worth melting for I melt for you every single time i saw tiktok of yours AQSAAA whenever i see that tiktok of yours my heart goes like 📈📈📈📈 i can watch that forever I wanna talk to you.  i want you to write your name AS AQSA shah hussain",
 };
